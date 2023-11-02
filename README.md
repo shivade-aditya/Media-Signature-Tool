@@ -1,4 +1,4 @@
-# Media Signature Tool
+# RSA-Backed Media File Authentication Tool
 
 A simple Python application with a GUI for signing and verifying media files (video, audio, or image) using RSA encryption.
 
